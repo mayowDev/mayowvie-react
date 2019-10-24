@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mayowvie-react/static/css/main.39400522.chunk.css",
+    "main.js": "/mayowvie-react/static/js/main.ecfb7031.chunk.js",
+    "main.js.map": "/mayowvie-react/static/js/main.ecfb7031.chunk.js.map",
+    "runtime-main.js": "/mayowvie-react/static/js/runtime-main.12dea0b6.js",
+    "runtime-main.js.map": "/mayowvie-react/static/js/runtime-main.12dea0b6.js.map",
+    "static/js/2.f8f3a01a.chunk.js": "/mayowvie-react/static/js/2.f8f3a01a.chunk.js",
+    "static/js/2.f8f3a01a.chunk.js.map": "/mayowvie-react/static/js/2.f8f3a01a.chunk.js.map",
+    "index.html": "/mayowvie-react/index.html",
+    "precache-manifest.27e3651582a3d4990dcd21aaeb9ed393.js": "/mayowvie-react/precache-manifest.27e3651582a3d4990dcd21aaeb9ed393.js",
+    "service-worker.js": "/mayowvie-react/service-worker.js",
+    "static/css/main.39400522.chunk.css.map": "/mayowvie-react/static/css/main.39400522.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12dea0b6.js",
+    "static/js/2.f8f3a01a.chunk.js",
+    "static/css/main.39400522.chunk.css",
+    "static/js/main.ecfb7031.chunk.js"
+  ]
+}
